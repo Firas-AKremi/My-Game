@@ -17,6 +17,13 @@ p{
   font-size: large;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
   color: aqua;
+  
+}
+.container {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
 
 /* the design for the start button */

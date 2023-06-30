@@ -1,4 +1,4 @@
-/* I created a variable and i stored my messages inside it and counter to count the done tasks */
+/* I created a variable and i stored my messages inside it and  a counter to count the done tasks */
 
 var messages = ["Eat an apple 🍏" , "Time to hack 💻 ", "Time to sleep 🛌😴", "Donate with 10d 💸 ","Go to watch a movie in the cinema 📽 ","Go on date 👫 ","Go to drink a coffee ☕️","time to practice some sport 🤸‍♂️ ","you should cook the dinner for tonight 👨‍🍳","you should clean up the house for today 🧺🧹","go shopping 📦 ","sing for the crowd 🎤"];
 var messages2=["go rock climbing 🧗‍♀️ ","go fishing 🎣 "," make a house party 🎉 ","go to visit your family 👪",]
